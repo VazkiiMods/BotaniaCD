@@ -1,0 +1,47 @@
+//==============================\\
+|| Botania Developer Bios       ||
+|| 2023-XX-XX                   ||
+\\==============================//
+
+This document contains brief self-introductions and bios from every past and present
+member of Botania's official development and art team.
+
+-----------
+| Vazkii  |
+-----------
+TODO(vazkii)
+
+---------
+| wiiv  |
+---------
+TODO(wiiv)
+
+---------------
+| dylan4ever  |
+---------------
+TODO(dylan4ever)
+
+-----------------
+| williewillus  |
+-----------------
+TODO(williewillus)
+
+----------
+| Hubry  |
+----------
+TODO(hubry)
+
+------------
+| Alwinfy  |
+------------
+TODO(alwinfy)
+
+------------------
+| artemisSystem  |
+------------------
+TODO(artemis)
+
+---------------
+| Falkory220  |
+---------------
+TODO(falkory)
