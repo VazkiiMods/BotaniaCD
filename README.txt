@@ -59,7 +59,8 @@ docs: This folder contains various text documentation:
 - omake.md: Bonus text content including flower profiles, advancement name references, and
   flower name references.
 - supporters.txt: A list of all people who have financially supported Vazkii, Violet Moon,
-  and Botania in the past.
+  and Botania in the past. TODO this should include everyone who donated to the retexture
+  gofundme, as well as patreon supporters
 
 images: This folder contains various bonus images:
 
@@ -88,4 +89,4 @@ Thank you for all of your support over the past 10 years.
 - Botania Repository: https://github.com/VazkiiMods/Botania
 - This Disc's Repository: https://github.com/VazkiiMods/BotaniaCD
   - The "golden-master" tag of this repository represents the contents that were sent for
-    production of physical media.
+    production of physical media. TODO call this something else that doesnt contain master?
