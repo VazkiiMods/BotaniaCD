@@ -7,6 +7,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
+      with:
+        submodules: recursive
     - name: Install dependencies
       run: |
         sudo apt-get install -y make genisoimage ruby-bundler
@@ -15,7 +17,7 @@ jobs:
         make BotaniaCD.iso
     # TODO(williewillus) sign with our release signing key
     - name: Archive
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v3
       with:
         name: ISO
         path: BotaniaCD.iso
