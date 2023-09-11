@@ -23,11 +23,11 @@
 
 1. Preface
 
-TODO(williewillus) write this
+TODO(vazkii) write this, TODO(williewillus) write afterword
 
 2. Description of Contents
 
-<TODO(williewillus) insert tree(1) visualization of entire disc once contents are finalized>
+<TODO(williewillus) insert tree(1) visualization of entire disc once contents are finalized, combined with the descriptions below>
 
 jars: This folder contains the latest version of Botania available for the following Minecraft versions:
 - 1.6.4
@@ -50,11 +50,9 @@ Please see jars/README.txt for details about required dependencies for each vers
 
 docs: This folder contains various text documentation:
 
-- changelog.html: Fully-rendered copy of the Botania changelog, covering every single
-  version from alpha-1 to the current day
+- website/index.html: Fully-rendered copy of the Botania website botaniamod.net, including
+  the changelog and online lexicon
 - developers.txt: Contains brief self-introductions from all of the Botania developers
-- lexicon.html: Fully-rendered copy of the latest web version of the Lexica Botania as of
-  time of production
 - license.txt: Details about the licensing and rights of the content of this disc
 - omake.md: Bonus text content including flower profiles, advancement name references, and
   flower name references.
@@ -74,6 +72,8 @@ images: This folder contains various bonus images:
 Please email '~williewillus/violet-moon@lists.sr.ht', without quotes, if your question is
 not privacy-sensitive. Emails will be archived publicly on SourceHut.
 
+Alternatively, post on the Violet Moon forums: https://forum.violetmoon.org/t/botania
+
 For privacy-sensitive matters, please contact Violet Moon through private channels.
 https://violetmoon.org/
 
@@ -85,8 +85,9 @@ Thank you for all of your support over the past 10 years.
 5. Useful Links
 
 - Violet Moon Website: https://violetmoon.org/
+- Violet Moon Forums: https://forum.violetmoon.org/t/botania
 - Botania Website: https://botaniamod.net/index.html
 - Botania Repository: https://github.com/VazkiiMods/Botania
 - This Disc's Repository: https://github.com/VazkiiMods/BotaniaCD
-  - The "golden-master" tag of this repository represents the contents that were sent for
-    production of physical media. TODO call this something else that doesnt contain master?
+  - The "prod" tag of this repository represents the contents that were sent for production
+    of physical media.
