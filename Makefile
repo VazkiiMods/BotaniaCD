@@ -10,8 +10,9 @@ clean:
 	rm -rf build
 	cd Botania && git restore . && git clean -f
 
-build: media jars README.txt
+build: docs media jars README.txt
 	mkdir -p $@
+	cp -r docs $@
 	cp -r jars $@
 	cp -r media $@
 	cp README.txt $@
