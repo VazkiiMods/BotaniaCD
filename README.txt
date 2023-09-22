@@ -48,17 +48,8 @@ jars: This folder contains the latest version of Botania available for the follo
 
 Please see jars/README.txt for details about required dependencies for each version.
 
-docs: This folder contains various text documentation:
-
-- website/index.html: Fully-rendered copy of the Botania website botaniamod.net, including
-  the changelog and online lexicon
-- developers.txt: Contains brief self-introductions from all of the Botania developers
-- license.txt: Details about the licensing and rights of the content of this disc
-- omake.md: Bonus text content including flower profiles, advancement name references, and
-  flower name references.
-- supporters.txt: A list of all people who have financially supported Vazkii, Violet Moon,
-  and Botania in the past. TODO this should include everyone who donated to the retexture
-  gofundme, as well as patreon supporters
+docs: This folder contains various text documentation and bonus text. See the README.txt
+in that folder for more details.
 
 media: This folder contains various bonus media. See the README.txt in that folder for
 more details.
