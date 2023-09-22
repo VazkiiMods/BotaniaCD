@@ -10,9 +10,13 @@ clean:
 	rm -rf build
 	cd Botania && git restore . && git clean -f
 
-build: docs media jars README.txt
+build/docs: docs
 	mkdir -p $@
-	cp -r docs $@
+	cp -r docs/* $@
+	awk -F '=' '{ print $$1; }' Botania/contributors.properties >> $@/general_supporters.txt
+
+build: build/docs media jars README.txt
+	mkdir -p $@
 	cp -r jars $@
 	cp -r media $@
 	cp README.txt $@

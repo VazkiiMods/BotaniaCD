@@ -1,0 +1,15 @@
+This file is a list of all people who appear in Botania's contributors.properties file,
+which grants them a flower hovering above their head in-game.
+
+People can appear on this file for a variety of reasons, but it usually comes down to one
+of the following:
+
+- Developer or other special friend of the developers
+- Financially supported the developers at any point through Discord, Twitch, Patreon or
+  other such channels
+
+Thank you for all of your contributions, large or small. Botania would not be where it is
+today without you.
+
+------------------------------------------------------------------------------------------
+

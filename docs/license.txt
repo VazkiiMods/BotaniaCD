@@ -78,9 +78,9 @@ Usage of code or assets falls under the Extensive Clause.
   code (the subdirectory src/main/java/vazkii/botania/api). However, if Botania API code
   is used, it must be included verbatim as it was obtained.
 
-2. docs and images
+2. docs and media
 
-All contents of the docs and images folder of this disc are copyright their respective
+All contents of the docs and media folder of this disc are copyright their respective
 authors and licensed to you under the terms of the Botania license described above.
 
 3. External Binaries
