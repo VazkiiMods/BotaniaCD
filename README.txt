@@ -60,12 +60,8 @@ docs: This folder contains various text documentation:
   and Botania in the past. TODO this should include everyone who donated to the retexture
   gofundme, as well as patreon supporters
 
-images: This folder contains various bonus images:
-
-- The Botania logo
-- Congratulatory artwork from various members of the community
-- Copies of the front and back artwork of the jewel case containing this disc
-- Copy of the disk label artwork
+media: This folder contains various bonus media. See the README.txt in that folder for
+more details.
 
 3. If You Have Any Questions
 
