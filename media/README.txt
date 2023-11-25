@@ -10,4 +10,9 @@ TODO
 - Copy of the disk label artwork
 
 Fan-submitted:
+- cookiegd.png: A submission from CookieGD_
+Botania is awesome, drawing is awesome, drawing Botania fanart is awesome too! The 10th
+anniversary CD project gave me the chance to become a small part of this mods history (and
+future). I hope that my obviously not very advanced art inspires other people to believe
+in their skills!
 - 
