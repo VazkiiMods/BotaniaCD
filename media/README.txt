@@ -56,3 +56,9 @@ at some model and shader work. This was when the Grimace Shake was trending too,
 figured why not riff on it? The background was a bit nonsensical, but I think the effect
 turned out well-- I was quite happy with the lighting.
 
+- Endure Jaminess - Boslamia.opus: Botania x Space Jam submitted by MettyMagic
+- Fight for Quislamence - Boslamia.opus: Botania x Space Jam mashup submitted by MettyMagic
+I made the space jam mashups as a joke one night. I was incredibly shocked to find my dumb
+edits got attention from both Vazkii and Kain Vinosec, let alone included in a physical
+album. Modded minecraft was a huge part of my childhood and I'm super glad to be a part of
+the community in the most insignificant and comically stupid way. Thanks, everyone! -Metty
