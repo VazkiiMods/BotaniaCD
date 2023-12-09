@@ -14,7 +14,20 @@ TODO(vazkii)
 -----------------
 | williewillus  |
 -----------------
-TODO(williewillus)
+
+williewillus (Willie for short) has been modding since 2014, and got his start in high
+school making Bukkit plugins and running servers for his friends. He started playing
+Minecraft in version 1.0.0 and has been the primary maintainer of Botania since the
+Minecraft 1.8 days (2015).
+
+Besides working on Botania and Patchouli, Willie has also worked on the ProjectE
+(2015-2019) and Twilight Forest (2017-2020) mods, and contributed in various ways to the
+modded ecosystem at large by working on MCP and Yarn mappings, adding features to the mod
+platforms, writing documentation and primers, and helping others with modding questions.
+
+Lately, Willie has been seeking to wind down his Minecraft modding activities, so you'll
+instead find him playing the Western flute and Chinese bamboo flute (dizi), playing Touhou
+shmups, and saying hi to the regulars on IRC (#vazkii at irc.esper.net).
 
 ----------
 | Hubry  |
