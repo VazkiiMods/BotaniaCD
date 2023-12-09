@@ -13,6 +13,7 @@ clean:
 build/docs: docs
 	mkdir -p $@
 	cp -r docs/* $@
+	cp Botania/Xplat/src/main/resources/omake.md $@
 	awk -F '=' '{ print $$1; }' Botania/contributors.properties >> $@/general_supporters.txt
 
 build: build/docs media jars README.txt
