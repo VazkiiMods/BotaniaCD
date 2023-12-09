@@ -23,7 +23,7 @@
 
 1. Preface
 
-TODO(vazkii) write this, TODO(williewillus) write afterword
+TODO(vazkii) write this
 
 2. Description of Contents
 
@@ -43,8 +43,7 @@ jars: This folder contains the latest version of Botania available for the follo
 - 1.17.1
 - 1.18.2
 - 1.19.2
-- 1.19.4
-- TODO(williewillus) 1.20 if ready
+- 1.20.1
 
 Please see jars/README.txt for details about required dependencies for each version.
 
@@ -56,12 +55,10 @@ more details.
 
 3. If You Have Any Questions
 
-Please email '~williewillus/violet-moon@lists.sr.ht', without quotes, if your question is
-not privacy-sensitive. Emails will be archived publicly on SourceHut.
+Please post on the Violet Moon forums: https://forum.violetmoon.org/t/botania, if your
+question is not privacy-sensitive.
 
-Alternatively, post on the Violet Moon forums: https://forum.violetmoon.org/t/botania
-
-For privacy-sensitive matters, please contact Violet Moon through private channels.
+For privacy-sensitive matters, please contact Violet Moon through private channels:
 https://violetmoon.org/
 
 4. If You Don't Have Any Questions
