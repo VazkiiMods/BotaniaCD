@@ -22,6 +22,11 @@ to Botania's progression.  So often, I'd lose myself in the process, and just ki
 eyes in front of the terrestrial agglomeration plate. it's nice.  I decided on the Note
 Block soundfont because it lent itself very well to the nostalgic vibes.
 
+- botania_wars.png: Fanart submitted by Alwinfy
+I wanted to make something a bit silly. It's funny how tater started as something so
+simple, but grew into such a complicated nest of inside jokes… Anyway, I hope nobody gets
+mad at me for using the Play/App store logos.
+
 - tater_hexcasting.mp4: Fan-animation submitted by Alwinfy
 I was working on Hexcasting a lot concurrently with this, so I figured I might give it
 something of a shoutout. I was also working with someone from the Hex discord who was
