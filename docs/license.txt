@@ -90,9 +90,8 @@ convenience. Their licenses are as follows:
 
 - Baubles: Copyright Azanor and distributed under the Creative Commons
   Attribution-NonCommercial-ShareAlike 3.0 Unported License (CC BY-NC-SA
-  3.0).
-  TODO(williewillus): we probably want to get explicit permission to be safe, or
-  exclude Baubles from the disc.
+  3.0)
+- Fabric API: Copyright Fabric contributors and distriubted under the Apache 2.0 license
 - Trinkets: Copyright Emily Ploszaj and distributed under the MIT license
 - Patchouli: Copyright Vazkii and contributors and distributed under explicit permission
   granted by Vazkii.
