@@ -14,6 +14,8 @@ Mod dependencies for Botania are included in the folder:
 * Patchouli for post-1.14 versions
 * Fabric API for all Fabric versions
 
+Garden of Glass releases compatible with each version are also included in the folder.
+
 Here are the tested and known-working configurations for Forge and Fabric versions, as of
 the time of writing.
 
