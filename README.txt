@@ -29,29 +29,22 @@ TODO(vazkii) write this
 
 <TODO(williewillus) insert tree(1) visualization of entire disc once contents are finalized, combined with the descriptions below>
 
-jars: This folder contains the latest version of Botania available for the following Minecraft versions:
-- 1.6.4
-- 1.7.10
-- 1.8.9
-- 1.9.4
-- 1.10.2
-- 1.11.2
-- 1.12.2
-- 1.14.4
-- 1.15.2
-- 1.16.5
-- 1.17.1
-- 1.18.2
-- 1.19.2
-- 1.20.1
-
-Please see jars/README.txt for details about required dependencies for each version.
+jars: This folder contains the latest version of Botania available for all major Minecraft
+versions of the mod's existence.
+Please see README.txt in that folder for details about required dependencies for each
+version.
 
 docs: This folder contains various text documentation and bonus text. See the README.txt
 in that folder for more details.
 
 media: This folder contains various bonus media. See the README.txt in that folder for
 more details.
+
+botania_source.bundle: This file is a Git bundle containing a complete copy the Botania
+repository as of the time of writing, including commit history. You can retrieve a working
+repository from it by doing
+
+  git clone botania_source.bundle <destination folder>
 
 3. If You Have Any Questions
 
