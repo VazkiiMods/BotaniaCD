@@ -11,8 +11,8 @@ First party:
 - omake.md: Bonus text content including flower profiles, advancement name references, and
   flower name references.
 - retexture_supporters.txt: Everyone who donated to the 2021 Botania retexture GoFundMe
-- changelog.html: Offline copy of the Botania changelog TODO(willie) implement
-- lexicon.html: Offline copy of the Botania lexicon TODO(willie) implement
+- changelog.md: Offline copy of the raw Botania changelog
+- lexicon.html: Offline copy of the raw Botania web lexicon
 
 Fan-submitted:
 - 

@@ -11,11 +11,13 @@ clean:
 	rm -f BotaniaCD.iso
 	cd Botania && git restore . && git clean -f
 
-build/docs: docs Botania/Xplat/src/main/resources/omake.md Botania/contributors.properties
+build/docs: docs Botania/Xplat/src/main/resources Botania/contributors.properties Botania/web
 	mkdir -p $@
 	cp -r docs/* $@
 	cp Botania/Xplat/src/main/resources/omake.md $@
 	awk -F '=' '{ print $$1; }' Botania/contributors.properties >> $@/general_supporters.txt
+	cp Botania/web/changelog.md $@/changelog.md
+	python3 Botania/web/_scripts/collate_data.py Botania/Xplat/src/main/resources botania lexicon $@/lexicon.html
 
 build: build/docs media jars README.txt .gitmodules
 	mkdir -p $@
