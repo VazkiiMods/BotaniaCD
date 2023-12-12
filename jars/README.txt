@@ -20,11 +20,11 @@ Here are the tested and known-working configurations for Forge and Fabric versio
 the time of writing.
 
 1.6.4:
-- Java 8
-- MinecraftForge 9.11.1.1345
-
 You may need to add `-Dfml.ignoreInvalidMinecraftCertificates=true` to your JVM arguments
 for the game to launch.
+
+- Java 8
+- MinecraftForge 9.11.1.1345
 
 1.7.10:
 - Java 8
@@ -105,6 +105,6 @@ Botania 1.20.1 had not yet switched support to NeoForge, so this is only tested 
 legacy MinecraftForge project.  NeoForge should also work, but there are no guarantees.
 
 - Java 17
-- MinecraftForge 41.1.47 OR Fabric Loader 0.15.1 and Fabric API 0.91.0+1.20.1
+- MinecraftForge 47.1.47 OR Fabric Loader 0.15.1 and Fabric API 0.91.0+1.20.1
 - Patchouli 1.20.1-83
 - Curios 5.4.5 OR Trinkets 3.7.1
