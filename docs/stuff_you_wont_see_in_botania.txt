@@ -1,0 +1,104 @@
+Botania CD Foreword:
+This essay was posted to Vazkii's blog on January 13, 2015.
+It discusses features often requested at the time that didn't fit with the vision of
+Botania.
+
+It has been reformatted for convenience but has otherwise not been altered.
+
+================
+
+Ok, I’m tired. Now and then somebody comes to me with an idea for the nth time that I’ve
+rejected (n-1) times, and as a decent portion of the internet is consisted of
+self-entitled brats, I often have to explain to them why I’ve rejected their idea. It’s
+interesting because it’s not even theirs. If I’ve had the idea thrown at me countless
+times it must be something rather generic or mundane. So I decided to make a post where I
+list what you will not see in botania and why. Hopefully with the objective of sending
+people a link to this page in response. Here goes.
+Note: Just because something is not in this list does not mean it’ll be in the mod or even
+will ever have a chance to. It just means I don’t have it asked all the time. I might edit
+this in the future.
+
+ 
+
+Anything that uses a GUI for world interaction
+I don’t think this one requires much of an explanation. The lack of GUIs for world
+interaction is one of the main features of Botania. There’s definitely GUIs in the mod,
+such as the book and the custom crafting table for the Assembly Halo (which you won’t even
+notice as it’s exactly the same as the vanilla one), but none of them work for interacting
+with the world. In Botania you interact with the world, not a screen that alters invisible
+properties in the world that affect the world.
+
+Numbers for world inspection
+Numbers must exist. Their existence is unavoidable, in fact, you can dig into the code or
+a wiki and find them all spread right there like one of your French girls. However, in
+Botania I decided to go on an approach where you don’t see the raw numbers? Why? To
+encourage experimentation. Spreaders also change their output depending on distance for
+that same objective. It also has an objective which I find incredibly important, which is
+a stopgap on the urge to minmax the game. For those unfamiliar, “minmaxing” refers to the
+act of making sure every little number is the exact optimal value for the situation, which
+in leads to people actively trying to make sure they’re getting the most out of their
+generation, conduction, etc. I don’t want to do that with botania, I’d rather people just
+play with the mod rather than try to math it through.
+
+A larger Mana Pool.
+This one gets a few people. “A larger, more expensive mana pool, maybe even a multiblock”
+is fairly common. You know why I don’t add it? Because it’s boring. Adding a zero to the
+end might make something 10x as powerful, but it sure as hell doesn’t make it 10x more
+interesting. Sparks exist. Lots of people gloss over them since they’re not given a
+massive focus, but they’re there, and augmented, given some space and a small bit of
+thought you can make as large of a single pool as you want. Try that, it’s a lot more
+interesting than just a bigger pool.
+
+A larger Mana Tablet
+More boring stuff, just use a Mana Mirror. I’m not even going to write a paragraph about
+this one.
+
+An Alfheim Dimension
+Another one that goes around the block fairly often. I can very easilly make an Alfheim
+dimension, the problem is simple though, what would I put there? That’s an important part
+of a dimension isn’t it? Not having it be a barren wasteland with absolutely nothing to
+see is a great idea. And in my opinion we have way too many boring dimensions in mods. I
+don’t want to make a exploration, dungeon or combat based dimension, as that is most
+definitely not what botania focuses on nor is it my forte by a longshot. So what would you
+do there? Gather resources? There’s no point if the elves do it for you. It just ends up
+as filler and tons of content that really has no place existing. I have no intention of
+making an Alfheim Dimension because I do not feel the need for one. Making a dimension
+just for the sake of making a dimension is boring and overdone.
+
+Daybloom (or other passive flower) upgrades
+The Daybloom is an essential flower in Botania progression, as it’s definitely the first
+that the player encounters. It gets outshadowed very quickly by better alternatives, and
+I’ve had requests to include a higher tier, more expensive version that would produce a
+lot more mana for free. And to that I say, hell no. This idea is an absolute trainwreck on
+the concept of Botania. There’s no point to design an interesting mana generation system
+when you can spend 2 hours midnless throwing runes and petals at a fountain until you have
+flowers that do that all for you. Why replace engaging elements with grunt work?
+
+Liquid/Fluid Mana
+Here’s another perfect trainwreck. Let’s remove the whole purpose and depth of the mana
+transport system and replace it with streamlined pipes and tanks and fourth dimension
+teleportation devices, sounds good! I’m not going to bother commenting on this one, it
+should be painstakingly obvious.
+
+(Any other mod power source) to Mana converter
+Similarly to the last one, replacing the mana generation system with more streamlined
+systems from other mods would also ruin the purpose of the mod, to create engaging
+gameplay that encourages creativity and sandbox play. While allowing you to hook up your
+big reactor or your massive thaumcraft node to generate mana would create a more united
+game between all the mods, it would also completely gimp the very existence of Botania. I
+don’t like RF as a platform for powering my things with. It’s too chaotic, so many mods
+have ways of generating power that come from different minds with different mentalities
+that it comes to a point where you, as a mod developer, have no idea where their power is
+coming from and what they’re paying for it. Are they getting your service for free because
+some mod has a powerful solar panel? Are they struggling for it because none of their mods
+have good generators? Nobody knows. You can’t make a tight design around RF due to all the
+variables you simply do not have control over. The same applies, on a lesser scale, to
+other mod energy sources. They work great in the context of the mod as the author has full
+control over how they work, they know how it’s gathered and where it’s used. In sum,
+allowing botania to be powered with other mods’ energies would remove my ability to
+control how players can generate energy, which I don’t want as it effectively removes my
+ability to have a tight design as I like to. Also I’m not going to stress over the Mana to
+RF generator in botania, it’s horribly inefficient.
+
+That’s all that comes to mind. Hopefully you won’t pester me about these. I’ll make sure
+to be adding things here on the regular :)

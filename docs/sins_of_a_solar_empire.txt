@@ -1,0 +1,160 @@
+Botania CD Foreword:
+This essay was posted to Vazkii's blog on September 21, 2015.
+It documents several of the key design decisions around the passive flowers at the time,
+primarily the Daybloom and Nightshade.
+
+It has been reformatted for convenience but has otherwise not been altered.
+
+================
+
+Sins of a Solar Empire, or The Passive Generation Conundrum
+
+This post has nothing to do with the RTS game of the same name. I just thought it was punny.
+
+Any Botania player who isn’t a goldfish or doesn’t live under a rock, at this point, is
+more than likely to have heard of the raging internet war (it’s not as bad as I make it
+seem, I just like hyperboles) on whether to leave the “passive decay” config option in the
+Botania config enabled or not. For those who are in fact goldfishes and/or live under a
+rock, there is a config option in botania that sets the amount of time in which a passive
+flower will despawn and turn into a Dead Shrub. This config option is set to 48000 ticks
+(two ingame days) by default, setting it to -1 disables this mechanic entirely.
+
+Many packs have taken the liberty of setting this config over to -1, including even the
+Botania Mod of the Month modpack by the FTB team. Many other people, who play on modpacks
+that don’t, also follow suit and disable the mechanic. Some like using the Dayblooms as
+decoration, some just prefer spamming hundreds of Hydroangeas all over the place for their
+mana production (something that can be considered a clear First Order Optimal
+Strategy). The latter is something that really itches on my back often times, as the act
+of being able to grind out hundreds of the same flower to be able to skip the entire mana
+generation half of the mod in the future seems like a terrible design decision. Why would
+you ever bother starting off with a tree farm for endoflames and then moving on to
+something better like the Kekimurus, Spectrolus or Entropinnyum when you can just use the
+same flower over and over again?
+
+This of course also leads to another problem, one that I often put in the backburner, but
+is definitely a problem non the less. Creating hundreds of generating flowers is bound to
+put some strain on your server. And then of course everyone’s going to complain to me for
+not being server friendly. And then when I’d tell them to not use hundreds of passives and
+use a good active one instead, they’d go back to the original accusation of me not caring
+about servers and ignore my suggestion. It’s basic human psychology, really. I don’t claim
+to be a psychologist or anything of the sort, but I think it doesn’t take a PhD to realize
+that when given two options, A and B, where A is easier to perform than B and yields the
+same results, most people would gravitate towards A, with reason.
+
+This problem is one that has to be faced by game designers. It’s a way in which game
+design differs from program design or web design. Whereas the end result and objective of
+a program or web app is to simply be the best it can be at doing what it’s meant to do, so
+that it becomes the option A from the previous example, the objective of a game is to be
+as engaging as possible. Let’s face it, if there was an app that somehow, through some
+arcane methodology, would allow you to get the key for the next EuroMillions, you’d use
+it. I’d use it. Probably everyone would use it. But let’s take the minecraftian equivalent
+of that, the ever so ubiquitous “Dirt to Diamonds”. In the end of the day, it’s the same
+outcome. But whereas the app would be incredible, the mod is boring and uninteresting.
+
+So we’ve reached the realization that game design should not purely focus on ease and
+power, but engagement. As they say, “it’s the journey, not the destination”. Let’s assume
+a situation similar to that of the previous example, where there are two methods to reach
+a goal, A and B. Similarly, method A is easier to accomplish than B, and they both give
+the same results in the end. Since we’re talking about engagement though, let’s add
+another variable into the equation, how engaging the method is for the player. Naturally
+we want this variable to be as high as possible, however, our conundrum lies on the fact
+that A, despite being easier, is a lot less engaging than B. What’s the fix here? How do
+we take care of the people that would inevitably dumb down their enjoyment of the
+experience by taking option A, as it seems the easiest? It’s not too hard. We just remove
+option A.
+
+There’s no reason for option A to even exist. It’s less engaging than B, which means that
+on a game design standpoint, it’s worse than B. For the player though, it’s easier to
+accomplish, so it’s better than B. One could make A harder to accomplish than B, in order
+to entice players to do B instead. But doing that effectively turns A into dead content,
+and even further punishing those who attempt to try it. Of course the ideal answer is to
+make A as engaging as B and have both at the same difficulty level, adding choice and
+spice to gameplay, but that’s not always possible. So with all of that all said and done,
+in the next upcoming (r.1.7-222) version of Botania, I have removed the config option for
+the passive flower decay and locked the value to the previous default (48000 ticks, 2
+ingame days). Effectively eliminating the option A from this equation.
+
+I know fully well how controversial this change will be, and don’t get me wrong, I also
+know fully well that engagement comes in all shapes and sizes. There’s no “one size fits
+all” answer for creating an engaging experience. What someone finds engaging, someone else
+will find utterly boring and dull, and vice-versa. You can’t make something that everyone
+will enjoy, it’s not possible, there will always be someone who dislikes your
+creation. And you know what? That’s fine. What that means is that you should focus on the
+people who find what you’re creating engaging, and try to make it as engaging as possible
+for them.
+
+This leads me to the concept of target audience. It’s self-explanatory, but in case you
+require an echo, the audience that your creation is targeting. For example, the
+FromSoftware games (Souls series, Bloodborne) are targeted towards a more hardcore
+audience, one that wants a difficult, punishing but not unfair experience. And despite me
+not being one of those people, as far as I can tell, they do a pretty damn good job at
+it. Those games are therefore, extremely engaging for their target audience, but I, who am
+not a fan of that level of difficulty, am likely to dislike say, Dark Souls II. Does that
+mean the game needs an “easy faceroll mode” toggle in the options menu so people outside
+the target audience, such as myself, can enjoy it? No, it shouldn’t. Because the game is
+not targeted at me. It shouldn’t be spending resources trying to please me. If I want
+something easier I can go play Pokémon. There’s games that cater to my playstyle, games in
+which I’m part of the target audience, I should go play those.
+
+And you ask me, what does all this have to do with Botania and the passive generation
+dilemma? Well, everything, really. It’s never been a secret to anybody that Botania has
+always been targeted towards those that dislike needless grinding and prefer to get
+themselves in the nitty-gritty of creating their own systems with abstract parts given to
+them. Which, when you think about it, is the exact opposite of the type of gameplay that
+the ability for passive flower spam allows for. Passive flower spam allows for the
+intended gameplay to be replaced with mindless grind and repetition of the same task
+dozens, if not hundreds of times (gathering petals and creating your passive flower of
+choice). So why keep it? Why keep a part of gameplay that’s targeted at the exact opposite
+audience of the one you’re targeting?
+
+In a more broad scope, something that looms around the modding community is the desire for
+players to fully customize their game the way they want it. So it’s to nobody’s surprise
+that an argument I want to refute here is the common “just keep the config option in, if
+you don’t want it, you don’t use it”. This, however, goes back to the whole option A and B
+problem from a few paragraphs ago, for a first time player, they don’t know what they
+want. They’re just messing about with the mod. When they realize that passive flowers can
+take care of the whole generation for you without you having to go into any others,
+they’ll just stick with it. And at that point they want passive flowers, because that’s
+what they know. Because change is scary. The same applies to old-timers who have always
+used passive flowers. What we end up with is a good amount of people that normally would
+use the active flowers and enjoy using them, but are instead using passive flowers because
+they get the job done perfectly, all it takes is 10 seconds of config digging the first
+time you install the mod.
+
+But what about the people who truly have tried both cases, and ended up deciding they want
+passive flowers over active flowers, as they do not like the automation prospects the mod
+provides? Well, in that case, I go back to the Dark Souls example. You’re trying to hammer
+a nail using a wrench. You’re playing a mod based on automation while at the same time
+disliking automation? Something here seems off. I don’t want to support completely
+opposite playstyles to the one I’m targeting for the sake of a few people who’re trying to
+hammer nails with wrenches. And I know fully well this decision will lead to a lot of
+people dropping the mod for good, as every other decision counted as a “nerf” in the past
+has. But mark my words, I’d rather my mod not be played than be played in a butchered
+state. Call me a control freak, a megalomaniac, literally Eloraam 2.0, I don’t care. I
+believe that the integrity of Botania is one of its strong suits, and I intend to keep it
+that way.
+
+To finish off this, already somewhat long winded article, I’m going to list a few
+questions and suggestions people have put me about this topic. These are paraphrased. Here
+goes.
+
+    Q: Doesn’t making passive flowers die serves nothing aside from increasing the grind factor, as you’ll have to remake them and replant them all the time?
+    A: That’s not the objective. As you point out, having to remake them and replant them  becomes an incredibly annoying task if you’d have to do it often. So why even do it at all? Move up to better flowers that don’t despawn, so you don’t have to worry about that at all.
+    Q: Why don’t you allow for Floral Fertilizer or a variant thereof to be used on decayed flowers to bring them back?
+    A: Doing that would add an unnecessary element of babysitting to the game, which is not interesting in the slightest, nobody wants to tend to their fields of flowers every twenty minutes lest their entire energy generation grind to a halt. Not only that, but that option simply being available would lead newer players to believe that’s the way to play the mod, and end up getting frustrated at how boring and annoying it is.
+    Q: Why don’t you add a super expensive recipe to make them not decay? (Alternatively: new expensive type of soil in which flowers don’t decay
+    A: That’s even worse than the original problem. All that does is even further encourage grinding with more expensive recipes. No, just… no.
+    Q: Why even bother with this? The passives don’t produce anything compared to the active ones. Only a maniac would use passives forever.
+    A: Server side chunkloading and idle times. You just accumulate a bunch of mana and go from there, turning the game into a wait timer.
+    Q: Aren’t Endoflames super easy to automate though? What’s stopping people who prefer simple things from using those?
+    A: The difference between Dayblooms and Endoflames is that the latter actually requires a system to be created in order to fuel them. Sure, it’s no redstone computer you have to create, but it’s something. It’s a small puzzle the player has to solve using the pieces that are given to them. It shows you that the mod can be automated, and even if you stay at that point and don’t build anything else further into it, you’ve actually made something yourself, you didn’t just mindlessly follow the same petal apothecary blueprint a ton of times. That’s worth something, right?
+    Q: Aren’t all flowers technically passive once you successfully automate them?
+    A: Yes, with a powerful enough system, everything can be a passive flower. But that’s the thing. You have to create that system. That’s something that you, as a player, needs to do to automate the active flowers. Something you actually have to design and construct, rather than just copying off some recipes in a book. You have to figure out how to automate them, and put that plan to motion. That’s the fun part.
+    Q: If you hate the passive flowers so much why not just remove them outright?
+    A: The passive flowers are as simple as they can get. They’re a great way for new players to get into the mod and figure out how mana works without overloading their minds with “automate this, automate that!” right off the start.
+
+I think that’s all, at least all that come to mind at the time of writing. I may have to
+edit this post sometime in the future to include more arguments and answers. For now
+though, I’ll be leaving you with this. I hope you continue to enjoy Botania even after the
+changes. And if you stop enjoying Botania after the changes, well, I hope you’re enjoying
+whatever it is you’re playing in its stead.

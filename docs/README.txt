@@ -13,6 +13,9 @@ First party:
 - retexture_supporters.txt: Everyone who donated to the 2021 Botania retexture GoFundMe
 - changelog.md: Offline copy of the raw Botania changelog
 - lexicon.html: Offline copy of the raw Botania web lexicon
+- sins_of_a_solar_empire.txt: An essay about the design of passive generating flowers in
+  Botania
+- stuff_you_wont_see_in_botania.txt: An essay about ideas that don't fit Botania's design
 
 Fan-submitted:
 - 
