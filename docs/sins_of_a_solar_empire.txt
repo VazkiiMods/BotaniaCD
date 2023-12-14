@@ -2,8 +2,10 @@ Botania CD Foreword:
 This essay was posted to Vazkii's blog on September 21, 2015.
 It documents several of the key design decisions around the passive flowers at the time,
 primarily the Daybloom and Nightshade.
+In the years since the publication of this essay, the Daybloom and Nightshade have been
+completely removed from the mod (existing only as decorative variants).
 
-It has been reformatted for convenience but has otherwise not been altered.
+The essay has been reformatted for convenience but has otherwise not been altered.
 
 ================
 
@@ -138,20 +140,53 @@ To finish off this, already somewhat long winded article, I’m going to list a 
 questions and suggestions people have put me about this topic. These are paraphrased. Here
 goes.
 
-    Q: Doesn’t making passive flowers die serves nothing aside from increasing the grind factor, as you’ll have to remake them and replant them all the time?
-    A: That’s not the objective. As you point out, having to remake them and replant them  becomes an incredibly annoying task if you’d have to do it often. So why even do it at all? Move up to better flowers that don’t despawn, so you don’t have to worry about that at all.
-    Q: Why don’t you allow for Floral Fertilizer or a variant thereof to be used on decayed flowers to bring them back?
-    A: Doing that would add an unnecessary element of babysitting to the game, which is not interesting in the slightest, nobody wants to tend to their fields of flowers every twenty minutes lest their entire energy generation grind to a halt. Not only that, but that option simply being available would lead newer players to believe that’s the way to play the mod, and end up getting frustrated at how boring and annoying it is.
-    Q: Why don’t you add a super expensive recipe to make them not decay? (Alternatively: new expensive type of soil in which flowers don’t decay
-    A: That’s even worse than the original problem. All that does is even further encourage grinding with more expensive recipes. No, just… no.
-    Q: Why even bother with this? The passives don’t produce anything compared to the active ones. Only a maniac would use passives forever.
-    A: Server side chunkloading and idle times. You just accumulate a bunch of mana and go from there, turning the game into a wait timer.
-    Q: Aren’t Endoflames super easy to automate though? What’s stopping people who prefer simple things from using those?
-    A: The difference between Dayblooms and Endoflames is that the latter actually requires a system to be created in order to fuel them. Sure, it’s no redstone computer you have to create, but it’s something. It’s a small puzzle the player has to solve using the pieces that are given to them. It shows you that the mod can be automated, and even if you stay at that point and don’t build anything else further into it, you’ve actually made something yourself, you didn’t just mindlessly follow the same petal apothecary blueprint a ton of times. That’s worth something, right?
-    Q: Aren’t all flowers technically passive once you successfully automate them?
-    A: Yes, with a powerful enough system, everything can be a passive flower. But that’s the thing. You have to create that system. That’s something that you, as a player, needs to do to automate the active flowers. Something you actually have to design and construct, rather than just copying off some recipes in a book. You have to figure out how to automate them, and put that plan to motion. That’s the fun part.
-    Q: If you hate the passive flowers so much why not just remove them outright?
-    A: The passive flowers are as simple as they can get. They’re a great way for new players to get into the mod and figure out how mana works without overloading their minds with “automate this, automate that!” right off the start.
+    Q: Doesn’t making passive flowers die serves nothing aside from increasing the grind
+    factor, as you’ll have to remake them and replant them all the time?
+    A: That’s not the objective. As you point out, having to remake them and replant them
+    becomes an incredibly annoying task if you’d have to do it often. So why even do it at
+    all? Move up to better flowers that don’t despawn, so you don’t have to worry about
+    that at all.
+
+    Q: Why don’t you allow for Floral Fertilizer or a variant thereof to be used on
+    decayed flowers to bring them back?
+	A: Doing that would add an unnecessary element of babysitting to the game, which is
+	not interesting in the slightest, nobody wants to tend to their fields of flowers
+	every twenty minutes lest their entire energy generation grind to a halt. Not only
+	that, but that option simply being available would lead newer players to believe
+	that’s the way to play the mod, and end up getting frustrated at how boring and
+	annoying it is.
+
+    Q: Why don’t you add a super expensive recipe to make them not decay? (Alternatively:
+    new expensive type of soil in which flowers don’t decay
+    A: That’s even worse than the original problem. All that does is even further
+    encourage grinding with more expensive recipes. No, just… no.
+
+    Q: Why even bother with this? The passives don’t produce anything compared to the
+    active ones. Only a maniac would use passives forever.
+    A: Server side chunkloading and idle times. You just accumulate a bunch of mana and go
+    from there, turning the game into a wait timer.
+
+	Q: Aren’t Endoflames super easy to automate though? What’s stopping people who prefer
+	simple things from using those?
+	A: The difference between Dayblooms and Endoflames is that the latter actually
+	requires a system to be created in order to fuel them. Sure, it’s no redstone computer
+	you have to create, but it’s something. It’s a small puzzle the player has to solve
+	using the pieces that are given to them. It shows you that the mod can be automated,
+	and even if you stay at that point and don’t build anything else further into it,
+	you’ve actually made something yourself, you didn’t just mindlessly follow the same
+	petal apothecary blueprint a ton of times. That’s worth something, right?
+
+	Q: Aren’t all flowers technically passive once you successfully automate them?
+	A: Yes, with a powerful enough system, everything can be a passive flower. But that’s
+	the thing. You have to create that system. That’s something that you, as a player,
+	needs to do to automate the active flowers. Something you actually have to design and
+	construct, rather than just copying off some recipes in a book. You have to figure out
+	how to automate them, and put that plan to motion. That’s the fun part.
+
+	Q: If you hate the passive flowers so much why not just remove them outright?
+	A: The passive flowers are as simple as they can get. They’re a great way for new
+	players to get into the mod and figure out how mana works without overloading their
+	minds with “automate this, automate that!” right off the start.
 
 I think that’s all, at least all that come to mind at the time of writing. I may have to
 edit this post sometime in the future to include more arguments and answers. For now
