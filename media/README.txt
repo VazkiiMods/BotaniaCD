@@ -67,3 +67,34 @@ I made the space jam mashups as a joke one night. I was incredibly shocked to fi
 edits got attention from both Vazkii and Kain Vinosec, let alone included in a physical
 album. Modded minecraft was a huge part of my childhood and I'm super glad to be a part of
 the community in the most insignificant and comically stupid way. Thanks, everyone! -Metty
+
+- corn_entryopinnyum.png: Fanart submitted by corn27182818
+For the second flower, I drew Entropinnyum. Don’t remember why, it’s definitely not a
+starter flower. But it’s a neat gimmick. Also don’t remember what their design was
+inspired from (maybe Helltaker or Arknights?). Red comes from TNT, at least. My headcanon
+is something like “talks big about 18+ activities but actually has absolutely no
+experience because they literally explode whenever they get embarrassed”.
+
+- corn_hydroangeas.png: Fanart submitted by corn27182818
+This was the first drawing I did for Botania, and I tried to make it as good as humanly
+possible. And I chose Hydroangeas to draw first since it’s one of the starter flowers, so
+I figured it fit the theme. The water was pretty difficult; I tried a few different
+techniques, and I think it came out alright. Really took way too much time though. The
+total time was close to 20 hours, one of the longest drawings I’ve ever done. That’s also
+why the other drawings are a bit simpler. (I think I’ve since gotten better at not
+spending excessive time on miniscule details, for the most part anyway.)
+
+- corn_tater-amogus.png: Fanart submitted by corn27182818
+Sus
+
+- corn_tater.png: Fanart submitted by corn27182818
+I thought I ought to draw the poster child of Botania at some point. (Tater is almost a
+cult, really, but an agreeable one.) I ended up making Tater a femboy. It’s ok I guess,
+but I think he looks too much like Astolfo. Oh well. I was also thinking about drawing a
+small comic on making french fries out of Tater, but I never got around to it.
+
+- corn_tater-hydroangeas.png: Fanart submitted by corn27182818
+Figured I’d raise some chaos by drawing random romance. I think it’s pretty cute. The pose
+is from a drawing by KuroTofu /クロウトフof Frostnova x Frostleaf from Arknights
+(https://www.pixiv.net/en/artworks/89876066). They’re quite good and their art style is
+relatively simple, so I use them as reference a lot. Came out pretty good I think.
