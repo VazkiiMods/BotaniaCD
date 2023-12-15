@@ -38,15 +38,15 @@ highly controversial project in its early years due to it discarding generally a
 gameplay conventions for mods at the time, and being designed to work as a fully standalone
 experience.
 
-Over time, many of the design guidelines Botania followed were shown to be pioneers in the
-future of the modding ecosystem. Practices such as focusing on thorough ingame documentation,
-avoiding GUIs, and providing gameplay via puzzle pieces rather than direct solutions have
-since inspired many new mods to be created.
-
 Botania has had a very rocky history over its now ten year lifespan. From controversies such
 as the removal of Dayblooms, hostile forks, the rise of the Tiny Potato as a community icon,
 the transition through the Official/Unofficial era, failed retexture projects, having its
 book entirely rewritten and moved to a different system, so on.
+
+Over time, though, many of the design guidelines Botania followed were shown to be pioneers in 
+the future of the modding ecosystem. Practices such as focusing on thorough ingame 
+documentation, avoiding GUIs, and providing gameplay via puzzle pieces rather than direct 
+solutions have since inspired many new mods to be created.
 
 It's fascinating and humbling to see that even ten years after, Botania remains a popular
 mainstay in the community. In some ways it gives me some pause-- thoughts of "what if that
