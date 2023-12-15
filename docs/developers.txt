@@ -9,7 +9,19 @@ of Botania's official development and art team.
 -----------
 | Vazkii  |
 -----------
-TODO(vazkii)
+Vazkii started playing Minecraft back in 2010, at age 12, and started modding in 2011,
+at age 13, going on to create Botania in 2013. Vazkii is also the creator of several
+other popular mods and modpacks, such as Psi, Quark, Neat, Patchouli, Crucial 2,
+Bliss, Musketeer, and more.
+
+Vazkii has a general distaste for the average style of gameplay Modded Minecraft
+encourages, and has always pushed to move things in a different direction. This can
+be seen in the fairly unique way Botania plays, and in his later push towards the
+then not very popular "vanilla+" style.
+
+These days, Vazkii mainly serves as an overseer to the Violet Moon project, which
+maintains and further develops his work. You can usually find him in Granblue Fantasy
+related boards and writing guides for the game.
 
 -----------------
 | williewillus  |
@@ -38,6 +50,7 @@ TODO(hubry)
 | Alwinfy  |
 ------------
 TODO(alwinfy)
+write the dang psi book bruh - vaz
 
 ------------------
 | artemisSystem  |
