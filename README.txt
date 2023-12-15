@@ -23,7 +23,48 @@
 
 1. Preface
 
-TODO(vazkii) write this
+Botania is a modification (mod) for Minecraft, themed after Natural Magic. It is classified
+as a "Tech Mod", in that its gameplay centers around infrastructure design and automation.
+Botania was originally created by Vazkii in 2014, and is now maintained by the Violet Moon
+Modding team, specifically williewillus, Hubry, Alwinfy, and artemisSystem.
+
+The original inspiration for Botania is lost to time, but the story I (Vazkii) usually tell,
+and that I still think is correct to the best of my (weak) memory, is that I was just bored
+during Biology class, and ended up doodling some ideas on my notebook, which were later
+fleshed out into a mod. I don't have that notebook anymore.
+
+Before being settled in as a mainstay of the modding community, Botania started out as a
+highly controversial project in its early years due to it discarding generally accepted
+gameplay conventions for mods at the time, and being designed to work as a fully standalone
+experience.
+
+Over time, many of the design guidelines Botania followed were shown to be pioneers in the
+future of the modding ecosystem. Practices such as focusing on thorough ingame documentation,
+avoiding GUIs, and providing gameplay via puzzle pieces rather than direct solutions have
+since inspired many new mods to be created.
+
+Botania has had a very rocky history over its now ten year lifespan. From controversies such
+as the removal of Dayblooms, hostile forks, the rise of the Tiny Potato as a community icon,
+the transition through the Official/Unofficial era, failed retexture projects, having its
+book entirely rewritten and moved to a different system, so on.
+
+It's fascinating and humbling to see that even ten years after, Botania remains a popular
+mainstay in the community. In some ways it gives me some pause-- thoughts of "what if that
+was my peak?", and the like. I don't think it's perfect, and if you've talked to me in the
+last few years about it, I've made my grievances very well known, but the fact its stood the
+test of time like this shows that my distaste is mostly just the self-critic in me being overly
+loud about it, I think.
+
+Botania has solidified my name in the community and given me a place where I otherwise had none.
+Even if I'm not directly working on it, its success and popularity were instrumental to charting
+the course for my life for the ten years since its release, and hopefully the course continues
+smooth sailing for the next ten as well. I wish to extend a massive personal thank you to all the
+people involved not only in the creation of this disc, but who've contributed or enjoyed Botania
+and my other mods at all over the years.
+
+I really wouldn't be here without you.
+Thank you.
+- Vazkii
 
 2. Description of Contents
 .
