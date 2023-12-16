@@ -10,9 +10,12 @@ jobs:
       with:
         submodules: recursive
         fetch-depth: '0'
+    - name: Create all local branches # So that the git bundle contains all branch pointers
+      run: |
+        cd Botania && (for b in `git branch -r | grep -v -- '->'`; do git branch --track ${b##origin/} $b; done)
     - name: Install dependencies
       run: |
-        sudo apt-get install -y make genisoimage ruby-bundler
+        sudo apt-get install -y make genisoimage
     - name: Build ISO
       run: |
         make BotaniaCD.iso

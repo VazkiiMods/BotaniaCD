@@ -69,21 +69,23 @@ Thank you.
 2. Description of Contents
 .
 ├── botania_source.bundle
-│   This file is a Git bundle containing a copy of the Botania
-│   repository as of the time of writing, including commit history. You can retrieve a working
-│   repository from it by doing
-│     git clone botania_source.bundle <destination folder>
+│     This file is a Git bundle containing a copy of the Botania
+│     repository as of the time of writing, including commit history. You can retrieve a working
+│     repository from it by doing
+│       git clone botania_source.bundle <destination folder>
+│     All release tags since we started tagging releases are available via `git tag`,
+│	  and all branch pointers can be seen with `git branch -a`.
 ├── docs
-│   This folder contains various text documentation and bonus text. See the README.txt
-│   in that folder for more details.
+│     This folder contains various text documentation and bonus text. See the README.txt
+│     in that folder for more details.
 ├── jars
-│   This folder contains the latest version of Botania available for all major Minecraft
-│   versions of the mod's existence.
-│   Please see README.txt in that folder for details about required dependencies for each
-│   version.
+│     This folder contains the latest version of Botania available for all major Minecraft
+│     versions of the mod's existence.
+│     Please see README.txt in that folder for details about required dependencies for each
+│     version.
 ├── media
-│   This folder contains various bonus media. See the README.txt in that folder for
-│   more details.
+│     This folder contains various bonus media. See the README.txt in that folder for
+│     more details.
 └── README.txt: This file
 
 3. If You Have Any Questions

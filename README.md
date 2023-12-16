@@ -3,7 +3,6 @@ See README.txt for the one that will be.
 
 # Requirements
 
-* Ruby and Bundler
 * Python 3
 * GNU Make
 * mkisofs
