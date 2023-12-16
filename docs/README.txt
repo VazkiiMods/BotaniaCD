@@ -10,7 +10,7 @@ First party:
 - license.txt: Details about the licensing and rights of the content of this disc
 - omake.md: Bonus text content including flower profiles, advancement name references, and
   flower name references.
-- retexture_supporters.txt: Everyone who donated to the 2021 Botania retexture GoFundMe
+- retexture_supporters.txt: Everyone who donated to the 2022 Botania retexture GoFundMe
 - changelog.md: Offline copy of the raw Botania changelog
 - lexicon.html: Offline copy of the raw Botania web lexicon
 - sins_of_a_solar_empire.txt: An essay about the design of passive generating flowers in
