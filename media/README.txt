@@ -4,10 +4,9 @@ and contributed externally by fans in the community.
 First party:
 - botania_logo.png: The official Botania logo
 - gog_logo.png: The official Garden of Glass logo
-
-TODO
-- Copies of the front and back artwork of the jewel case containing this disc
-- Copy of the disk label artwork
+- disc_face.png: The artwork on the disc face, by dani
+- disc_inner_cover.png: The artwork on the inside cover, by dani
+- disc_outer_cover.png: The artwork on the outside of the jewel case, by dani
 
 Fan-submitted:
 - cookiegd.png: Fanart submitted by CookieGD_

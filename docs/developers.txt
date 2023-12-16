@@ -1,6 +1,5 @@
 //==============================\\
 || Botania Developer Bios       ||
-|| December 2023                ||
 \\==============================//
 
 This document contains brief self-introductions and bios from some past and present member
@@ -29,7 +28,7 @@ related boards and writing guides for the game.
 
 williewillus (Willie for short) has been modding since 2014, and got his start in high
 school making Bukkit plugins and running servers for his friends. He started playing
-Minecraft in version 1.0.0 and served been the primary maintainer of Botania since the
+Minecraft in version 1.0.0 and has served as the primary maintainer of Botania from the
 Minecraft 1.8 days until now (2015-2024).
 
 Besides working on Botania and Patchouli, Willie has also worked on the ProjectE
