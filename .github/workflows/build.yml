@@ -11,6 +11,7 @@ jobs:
         submodules: recursive
         fetch-depth: '0'
     - name: Create all local branches # So that the git bundle contains all branch pointers
+      continue-on-error: true
       run: |
         cd Botania && (for b in `git branch -r | grep -v -- '->'`; do git branch --track ${b##origin/} $b; done)
     - name: Install dependencies
