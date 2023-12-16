@@ -55,4 +55,28 @@ write the dang psi book bruh - vaz
 ------------------
 | artemisSystem  |
 ------------------
-TODO(artemis)
+
+artemis, or luna, first started playing minecraft in 2012, and was introduced to
+mods the same year. What followed was many years of hosting servers to play with
+friends and making resource packs with various tweaks. They didn't discover
+Botania until 2018, but it quickly became a favourite, and she would later go on
+to become an active member of the Violet Moon community, her favourite pastime
+there being discussing Botania.
+
+In 2021, they started experimenting with making some new textures for Botania's
+livingwood, which eventually made it into the mod, thanks to Hubry helping with
+programming. This contributed to kicking off the full retexture of Botania by
+her and Falkory, which is still an ongoing project. With the help of studying
+the changes that were being made to accomodate the new textures (like making
+livingwood more similar to Minecraft's other wood types), she slowly got the
+hang of modding by making her own changes to Botania. After a good while of
+sending bug fix and improvement patches, she was invited to be a part of the
+Botania developer team. She's also made some small quality of life mods on her
+own.
+
+When it comes to playing Minecraft — which she wishes she did more often these
+days — she really enjoys Crucial 2. It excellently captures their favourite way
+to play the game. They aspire to make their own modpack one day, building on the
+best of Crucial 2, and Vazkii's modpack design philosophy. It's good stuff.
+Otherwise you'll probably find her playing Celeste or toying around (usually
+with parsers) in her favourite programming language, PureScript.
