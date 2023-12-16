@@ -140,15 +140,15 @@ To finish off this, already somewhat long winded article, I’m going to list a 
 questions and suggestions people have put me about this topic. These are paraphrased. Here
 goes.
 
-    Q: Doesn’t making passive flowers die serves nothing aside from increasing the grind
-    factor, as you’ll have to remake them and replant them all the time?
-    A: That’s not the objective. As you point out, having to remake them and replant them
-    becomes an incredibly annoying task if you’d have to do it often. So why even do it at
-    all? Move up to better flowers that don’t despawn, so you don’t have to worry about
-    that at all.
+	Q: Doesn’t making passive flowers die serves nothing aside from increasing the grind
+	factor, as you’ll have to remake them and replant them all the time?
+	A: That’s not the objective. As you point out, having to remake them and replant them
+	becomes an incredibly annoying task if you’d have to do it often. So why even do it at
+	all? Move up to better flowers that don’t despawn, so you don’t have to worry about
+	that at all.
 
-    Q: Why don’t you allow for Floral Fertilizer or a variant thereof to be used on
-    decayed flowers to bring them back?
+	Q: Why don’t you allow for Floral Fertilizer or a variant thereof to be used on
+	decayed flowers to bring them back?
 	A: Doing that would add an unnecessary element of babysitting to the game, which is
 	not interesting in the slightest, nobody wants to tend to their fields of flowers
 	every twenty minutes lest their entire energy generation grind to a halt. Not only
@@ -156,15 +156,15 @@ goes.
 	that’s the way to play the mod, and end up getting frustrated at how boring and
 	annoying it is.
 
-    Q: Why don’t you add a super expensive recipe to make them not decay? (Alternatively:
-    new expensive type of soil in which flowers don’t decay
-    A: That’s even worse than the original problem. All that does is even further
-    encourage grinding with more expensive recipes. No, just… no.
+	Q: Why don’t you add a super expensive recipe to make them not decay? (Alternatively:
+	new expensive type of soil in which flowers don’t decay
+	A: That’s even worse than the original problem. All that does is even further
+	encourage grinding with more expensive recipes. No, just… no.
 
-    Q: Why even bother with this? The passives don’t produce anything compared to the
-    active ones. Only a maniac would use passives forever.
-    A: Server side chunkloading and idle times. You just accumulate a bunch of mana and go
-    from there, turning the game into a wait timer.
+	Q: Why even bother with this? The passives don’t produce anything compared to the
+	active ones. Only a maniac would use passives forever.
+	A: Server side chunkloading and idle times. You just accumulate a bunch of mana and go
+	from there, turning the game into a wait timer.
 
 	Q: Aren’t Endoflames super easy to automate though? What’s stopping people who prefer
 	simple things from using those?
