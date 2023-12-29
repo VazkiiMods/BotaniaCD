@@ -48,8 +48,18 @@ TODO(hubry)
 ------------
 | Alwinfy  |
 ------------
-TODO(alwinfy)
-write the dang psi book bruh - vaz
+
+alwinfy started modding in late 2019/early 2020, cleaning up some Botania code
+and modernizing the Lexica Botania (it's still mostly their contributions today!)
+Since then, they've worked on various quality-of-life improvements and bugfixes
+for Botania and its sister mods Patchouli and Psi, as well as feature touchups
+to bring Botania into a more modern age. They've also put Botania's "mascot,"
+the Tiny Potato, into various situations with the power of 3D animation.
+
+Besides Violet Moon's mods, they've worked on other mods like Hexcasting. They'd
+like to get back into playing at some point, but in the meanwhile they've been
+composing music, drawing, animating, building small languages, and occasionally
+writing. You can generally find them in the Violet Moon discord's #tech_chat.
 
 ------------------
 | artemisSystem  |
