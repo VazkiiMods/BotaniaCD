@@ -18,4 +18,14 @@ First party:
 - stuff_you_wont_see_in_botania.txt: An essay about ideas that don't fit Botania's design
 
 Fan-submitted:
-- 
+- Remembering the Tater ARG.odt:
+  A document recounting the story of an ARG (alternate reality game) based around the Tiny
+  Potato that took place in the Violet Moon Discord in 2021. This document is an ODT
+  (OpenDocument Text) file and should be readable by software such as LibreOffice, Okular,
+  Google Docs, Microsoft WordPad, Microsoft Word, or others.
+- Papercraft_Tater.pdf:
+  A papercraft template that can be printed out and folded in a simple rectangular prism
+  to create a Tiny Potato. Was part of the Tater ARG mentioned above.
+- tater_crate_document.pdf:
+  The original printed document that was included in the Tater Crate, described in the
+  Tater ARG document above.
