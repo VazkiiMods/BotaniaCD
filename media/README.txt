@@ -1,6 +1,34 @@
 This folder contains various bonus media (images, audio, and video), both from the project
 and contributed externally by fans in the community.
 
+--------------------------
+This disc can be played in a CD player for some bonus tracks. Here is the track list for
+those tracks on the audio side of the disc.
+
+1. Endure Jaminess: Botania x Space Jam submitted by MettyMagic
+I made the space jam mashups as a joke one night. I was incredibly shocked to find my dumb
+edits got attention from both Vazkii and Kain Vinosec, let alone included in a physical
+album. Modded minecraft was a huge part of my childhood and I'm super glad to be a part of
+the community in the most insignificant and comically stupid way. Thanks, everyone! -Metty
+
+2. Runes of Mana: Fan-music submitted by Firel
+This is Runes of Mana, inspired by the skyblock experience, chilling out and just vibing
+to Botania's progression.  So often, I'd lose myself in the process, and just kind open my
+eyes in front of the terrestrial agglomeration plate. it's nice.  I decided on the Note
+Block soundfont because it lent itself very well to the nostalgic vibes.
+
+3. Rune of Air: Fan-music submitted by Firel
+TODO
+
+4. Garden of Glass: Fan-music submitted by Firel
+TODO
+
+5. Fight for Quislamence: Botania x Space Jam mashup submitted by MettyMagic
+See the comment for Endure Jaminess.
+
+--------------------------
+This section describes the contents of the media folder on the data side of the disc.
+
 First party:
 - botania_logo.png: The official Botania logo
 - gog_logo.png: The official Garden of Glass logo
@@ -14,12 +42,6 @@ Botania is awesome, drawing is awesome, drawing Botania fanart is awesome too! T
 anniversary CD project gave me the chance to become a small part of this mods history (and
 future). I hope that my obviously not very advanced art inspires other people to believe
 in their skills!
-
-- Runes of Mana - Firel.flac: Fan-music submitted by Firel
-This is Runes of Mana, inspired by the skyblock experience, chilling out and just vibing
-to Botania's progression.  So often, I'd lose myself in the process, and just kind open my
-eyes in front of the terrestrial agglomeration plate. it's nice.  I decided on the Note
-Block soundfont because it lent itself very well to the nostalgic vibes.
 
 - botania_wars.png: Fanart submitted by Alwinfy
 I wanted to make something a bit silly. It's funny how tater started as something so
@@ -59,13 +81,6 @@ Recently I'd seen a lot of posts in a more simple, low-realism style, so I tried
 at some model and shader work. This was when the Grimace Shake was trending too, so I
 figured why not riff on it? The background was a bit nonsensical, but I think the effect
 turned out well-- I was quite happy with the lighting.
-
-- Endure Jaminess - Boslamia.opus: Botania x Space Jam submitted by MettyMagic
-- Fight for Quislamence - Boslamia.opus: Botania x Space Jam mashup submitted by MettyMagic
-I made the space jam mashups as a joke one night. I was incredibly shocked to find my dumb
-edits got attention from both Vazkii and Kain Vinosec, let alone included in a physical
-album. Modded minecraft was a huge part of my childhood and I'm super glad to be a part of
-the community in the most insignificant and comically stupid way. Thanks, everyone! -Metty
 
 - corn_entryopinnyum.png: Fanart submitted by corn27182818
 For the second flower, I drew Entropinnyum. Don’t remember why, it’s definitely not a

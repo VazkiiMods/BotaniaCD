@@ -67,6 +67,10 @@ Thank you.
 - Vazkii
 
 2. Description of Contents
+When played in a CD player, this disc plays several bonus tracks submitted by the
+community. See media/README.txt for more information.
+
+When mounted on a computer CD drive, the following contents are accessible:
 .
 ├── botania_source.bundle
 │     This file is a Git bundle containing a copy of the Botania

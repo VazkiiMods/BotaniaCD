@@ -16,22 +16,14 @@ jobs:
         cd Botania && (for b in `git branch -r | grep -v -- '1.20.x'`; do git branch --track ${b##origin/} $b; done)
     - name: Install dependencies
       run: |
-        sudo apt-get install -y make genisoimage
+        sudo apt-get install -y make
     - name: Build ISO
       run: |
-        make BotaniaCD.iso
-    - name: Sign
-      env:
-        SIGNING_KEY: ${{ secrets.VIOLET_MOON_SIGNING_KEY }}
-      if: ${{ env.SIGNING_KEY != '' }}
-      run: |
-        echo "${SIGNING_KEY}" | gpg --import -
-        gpg --local-user "Violet Moon Signing Key" --armor \
-          --detach-sign BotaniaCD.iso
+        make build
     - name: Archive
       uses: actions/upload-artifact@v3
       with:
         name: BotaniaCD
         path: |
-          BotaniaCD.iso
-          BotaniaCD.iso.asc
+          audio
+          build
