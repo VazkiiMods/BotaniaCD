@@ -11,20 +11,29 @@ edits got attention from both Vazkii and Kain Vinosec, let alone included in a p
 album. Modded minecraft was a huge part of my childhood and I'm super glad to be a part of
 the community in the most insignificant and comically stupid way. Thanks, everyone! -Metty
 
-2. Runes of Mana: Fan-music submitted by Firel
+2. Fight for Quislamence: Botania x Space Jam mashup submitted by MettyMagic
+See the comment for Endure Jaminess.
+
+3. Runes of Air: Fan-music submitted by Firel
+When I wrote Runes of Air, I tried imagining what a Music Disc for Botania would sound
+like. While I do love the Nothing Battles' two themes, those were boss themes, and I was
+going for a different mood- something closer to Cat, or Stal, with a distinctly magical
+and whimsical feel to it. Something you could listen to while adventuring through your
+overworld, looking for flowers to start your Apothecary with.
+
+4. Runes of Mana: Fan-music submitted by Firel
 This is Runes of Mana, inspired by the skyblock experience, chilling out and just vibing
-to Botania's progression.  So often, I'd lose myself in the process, and just kind open my
-eyes in front of the terrestrial agglomeration plate. it's nice.  I decided on the Note
+to Botania's progression. So often, I'd lose myself in the process, and just kind open my
+eyes in front of the terrestrial agglomeration plate. it's nice. I decided on the Note
 Block soundfont because it lent itself very well to the nostalgic vibes.
 
-3. Rune of Air: Fan-music submitted by Firel
-TODO
+5. Garden of Glass: Fan-music submitted by Firel
+I've played many a skyblock where Botania quickly becomes one of the central features of
+my base. Gourmaryllis crunching on god-knows-what while Entropynniums eat blasting TNT out
+of hourglass-dispensers. This the music I hear as I walk through the busy floating islands
+my friends and I have built, mana spreaders pulsing and the void ever lingering far below.
 
-4. Garden of Glass: Fan-music submitted by Firel
-TODO
-
-5. Fight for Quislamence: Botania x Space Jam mashup submitted by MettyMagic
-See the comment for Endure Jaminess.
+6. TODO original Nothing Battles?
 
 --------------------------
 This section describes the contents of the media folder on the data side of the disc.
