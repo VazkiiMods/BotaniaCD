@@ -35,6 +35,12 @@ my friends and I have built, mana spreaders pulsing and the void ever lingering 
 
 6. TODO original Nothing Battles?
 
+The artists featured above:
+- Kain Vinosec: https://www.youtube.com/@KainVinosec
+- Quad City DJ's: N/A
+- MettyMagic: https://www.youtube.com/@mettymagic
+- Firel: https://firel.bandcamp.com/
+
 --------------------------
 This section describes the contents of the media folder on the data side of the disc.
 
