@@ -11,9 +11,9 @@ jobs:
         submodules: recursive
         fetch-depth: '0'
     - name: Create all local branches # So that the git bundle contains all branch pointers
-      continue-on-error: true
       run: |
-        cd Botania && (for b in `git branch -r | grep -v -- '->'`; do git branch --track ${b##origin/} $b; done)
+        # Filter out 1.20.x which will include both `origin/1.20.x` and `origin/HEAD -> origin/1.20.x`
+        cd Botania && (for b in `git branch -r | grep -v -- '1.20.x'`; do git branch --track ${b##origin/} $b; done)
     - name: Install dependencies
       run: |
         sudo apt-get install -y make genisoimage
