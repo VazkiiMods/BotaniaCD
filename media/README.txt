@@ -37,10 +37,20 @@ of hourglass-dispensers. This the music I hear as I walk through the busy floati
 my friends and I have built, mana spreaders pulsing and the void ever lingering far below.
 - Firel
 
-6. Endure Emptiness: From The Nothing Battles by Kain Vinosec
-TODO
+6. Endure Emptiness: From The Nothing Battles Remastered by Kain Vinosec
+My songs were previously created as royalty-free music and were chosen by Vazkii for
+inclusion in Botania. I didn't really know what to expect when I found out, but the scope
+and players of Botania have been so amazing and Vazkii is a truly awesome person. Because
+of Botania these songs became something of a hit. Their popularity led me to create a
+remaster of The Nothing Battles (with the remasters eventually being included in the mod),
+releasing additional work from the album (More Than Nothing), and even a proper
+collaboration with Vazkii for an original song (Endermosh, made for Quark). There are a
+lot of things in my life and especially my composing career that wouldn't have happened
+without Botania and I will be forever grateful to Vazkii, the players, and the listeners.
+- Kain Vinosec
 
-7. Fight For Quiescence: From The Nothing Battles by Kain Vinosec
+7. Fight For Quiescence: From The Nothing Battles Remastered by Kain Vinosec
+See the comment for Endure Emptiness.
 
 The artists featured above:
 - Kain Vinosec: https://www.youtube.com/@KainVinosec
