@@ -9,7 +9,8 @@ those tracks on the audio side of the disc.
 I made the space jam mashups as a joke one night. I was incredibly shocked to find my dumb
 edits got attention from both Vazkii and Kain Vinosec, let alone included in a physical
 album. Modded minecraft was a huge part of my childhood and I'm super glad to be a part of
-the community in the most insignificant and comically stupid way. Thanks, everyone! -Metty
+the community in the most insignificant and comically stupid way. Thanks, everyone!
+-Metty
 
 2. Fight for Quislamence: Botania x Space Jam mashup submitted by MettyMagic
 See the comment for Endure Jaminess.
@@ -20,20 +21,26 @@ like. While I do love the Nothing Battles' two themes, those were boss themes, a
 going for a different mood- something closer to Cat, or Stal, with a distinctly magical
 and whimsical feel to it. Something you could listen to while adventuring through your
 overworld, looking for flowers to start your Apothecary with.
+- Firel
 
 4. Runes of Mana: Fan-music submitted by Firel
 This is Runes of Mana, inspired by the skyblock experience, chilling out and just vibing
 to Botania's progression. So often, I'd lose myself in the process, and just kind open my
 eyes in front of the terrestrial agglomeration plate. it's nice. I decided on the Note
 Block soundfont because it lent itself very well to the nostalgic vibes.
+- Firel
 
 5. Garden of Glass: Fan-music submitted by Firel
 I've played many a skyblock where Botania quickly becomes one of the central features of
 my base. Gourmaryllis crunching on god-knows-what while Entropynniums eat blasting TNT out
 of hourglass-dispensers. This the music I hear as I walk through the busy floating islands
 my friends and I have built, mana spreaders pulsing and the void ever lingering far below.
+- Firel
 
-6. TODO original Nothing Battles?
+6. Endure Emptiness: From The Nothing Battles by Kain Vinosec
+TODO
+
+7. Fight For Quiescence: From The Nothing Battles by Kain Vinosec
 
 The artists featured above:
 - Kain Vinosec: https://www.youtube.com/@KainVinosec
