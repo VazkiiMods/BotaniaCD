@@ -43,7 +43,16 @@ shmups, and saying hi to the regulars on IRC (#vazkii at irc.esper.net).
 ----------
 | Hubry  |
 ----------
-TODO(hubry)
+
+Hubry's first foray into Botania code in 2017 was motivated by fixing missing and
+outdated information on the official FTB wiki, but a year later it turned into
+contributing to the mod itself - at first focusing on mild annoyances and Thaumcraft
+integration, later assisting with porting and bug fixing. Their favorite parts of
+the mod are the various toys and gadgets, not the automation they have a hard time
+wrapping their head around.
+
+Currently on a hiatus, as their attention has been stolen by other games
+(currently Final Fantasy XIV) but they hope to get back into modding at some point.
 
 ------------
 | Alwinfy  |
