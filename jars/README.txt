@@ -105,6 +105,6 @@ Botania 1.20.1 had not yet switched support to NeoForge, so this is only tested 
 legacy MinecraftForge project.  NeoForge should also work, but there are no guarantees.
 
 - Java 17
-- MinecraftForge 47.1.47 OR Fabric Loader 0.15.1 and Fabric API 0.91.0+1.20.1
-- Patchouli 1.20.1-83
+- MinecraftForge 47.1.3 OR Fabric Loader 0.15.1 and Fabric API 0.91.0+1.20.1
+- Patchouli 1.20.1-84
 - Curios 5.4.5 OR Trinkets 3.7.1
