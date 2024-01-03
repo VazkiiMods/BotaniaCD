@@ -10,9 +10,9 @@ clean:
 build/docs: docs Botania/Xplat/src/main/resources Botania/contributors.properties Botania/web
 	mkdir -p $@
 	cp -r docs/* $@
-	cp Botania/Xplat/src/main/resources/omake.md $@
+	cp Botania/Xplat/src/main/resources/omake.md $@/omake.txt
 	awk -F '=' '{ print $$1; }' Botania/contributors.properties >> $@/general_supporters.txt
-	cp Botania/web/changelog.md $@/changelog.md
+	cp Botania/web/changelog.md $@/changelog.txt
 	python3 Botania/web/_scripts/collate_data.py Botania/Xplat/src/main/resources botania lexicon $@/lexicon.html
 
 build: build/docs media jars README.txt .gitmodules

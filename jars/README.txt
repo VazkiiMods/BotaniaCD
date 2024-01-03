@@ -9,9 +9,9 @@ The mod platforms can be downloaded from the following sites:
 
 Mod dependencies for Botania are included in the folder:
 * Baubles for 1.12 and earlier Forge versions
-* Curios for post-1.12 Forge versions
-* Trinkets for post-1.12 Fabric versions
-* Patchouli for post-1.14 versions
+* Curios for 1.14 and later Forge versions
+* Trinkets for 1.17 and later Fabric versions
+* Patchouli for 1.14 and later versions
 * Fabric API for all Fabric versions
 
 Garden of Glass releases compatible with each version are also included in the folder.

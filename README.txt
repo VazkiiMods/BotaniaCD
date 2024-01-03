@@ -68,9 +68,10 @@ Thank you.
 
 2. Description of Contents
 When played in a CD player, this disc plays several bonus tracks submitted by the
-community. See media/README.txt for more information.
+community. See media/README.txt for more information. Media players such as Windows Media
+Player or VLC can also access the audio side of the disk and play the contained tracks.
 
-When mounted on a computer CD drive, the following contents are accessible:
+When loaded into a computer's CD drive, the following contents are accessible:
 .
 ├── botania_source.bundle
 │     This file is a Git bundle containing a copy of the Botania

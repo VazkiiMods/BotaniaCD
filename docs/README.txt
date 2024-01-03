@@ -8,10 +8,10 @@ First party:
 - general_supporters.txt: List of everyone in Botania's contributor file, including people
   who gave monetary support on Patreon, Discord, or Twitch.
 - license.txt: Details about the licensing and rights of the content of this disc
-- omake.md: Bonus text content including flower profiles, advancement name references, and
+- omake.txt: Bonus text content including flower profiles, advancement name references, and
   flower name references.
 - retexture_supporters.txt: Everyone who donated to the 2022 Botania retexture GoFundMe
-- changelog.md: Offline copy of the raw Botania changelog
+- changelog.txt: Offline copy of the raw Botania changelog
 - lexicon.html: Offline copy of the raw Botania web lexicon
 - sins_of_a_solar_empire.txt: An essay about the design of passive generating flowers in
   Botania
