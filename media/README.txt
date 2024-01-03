@@ -66,6 +66,7 @@ First party:
 - gog_logo.png: The official Garden of Glass logo
 - disc_face.png: The artwork on the disc face, by dani
 - disc_inner_cover.png: The artwork on the inside cover, by dani
+- disc_old_inner_cover.png: Old artwork for the inside cover, by dani
 - disc_outer_cover.png: The artwork on the outside of the jewel case, by dani
 
 Fan-submitted:
