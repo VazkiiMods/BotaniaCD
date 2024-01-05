@@ -67,7 +67,9 @@ First party:
 - disc_face.png: The artwork on the disc face, by dani
 - disc_inner_cover.png: The artwork on the inside cover, by dani
 - disc_old_inner_cover.png: Old artwork for the inside cover, by dani
-- disc_outer_cover.png: The artwork on the outside of the jewel case, by dani
+- disc_front_cover.png: The artwork on the front outside of the jewel case, by dani
+- disc_back_cover.png: The artwork on the back outside of the jewel case, by dani
+- disc_tray.png: The artwork underneath the disc tray, by dani
 
 Fan-submitted:
 - cookiegd.png: Fanart submitted by CookieGD_
