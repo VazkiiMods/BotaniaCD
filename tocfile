@@ -6,7 +6,7 @@ CD_TEXT {
 
   LANGUAGE 0 {
     TITLE "Botania 10th Anniversary Commemorative CD"
-	PERFORMER "Violet Moon Modding"
+    PERFORMER "Violet Moon Modding"
   }
 }
 
@@ -16,62 +16,62 @@ TRACK MODE1
 TRACK AUDIO
   CD_TEXT {
     LANGUAGE 0 {
-	  TITLE "Endure Jaminess - Boslamia"
-	  PERFORMER "Kain Vinosec & Quad City DJ's arr. MettyMagic"
-	}
+      TITLE "Endure Jaminess - Boslamia"
+      PERFORMER "Kain Vinosec & Quad City DJ's arr. MettyMagic"
+    }
   }
   FILE "audio/01 - Endure Jaminess - Boslamia.wav" 0
 
 TRACK AUDIO
   CD_TEXT {
     LANGUAGE 0 {
-	  TITLE "Fight For Quislamence - Boslamia"
-	  PERFORMER "Kain Vinosec & Quad City DJ's arr. MettyMagic"
-	}
+      TITLE "Fight For Quislamence - Boslamia"
+      PERFORMER "Kain Vinosec & Quad City DJ's arr. MettyMagic"
+    }
   }
   FILE "audio/02 - Fight For Quislamence - Boslamia.wav" 0
 
 TRACK AUDIO
   CD_TEXT {
     LANGUAGE 0 {
-	  TITLE "Runes of Air"
-	  PERFORMER "Firel"
-	}
+      TITLE "Runes of Air"
+      PERFORMER "Firel"
+    }
   }
   FILE "audio/03 - Runes of Air - Firel.wav" 0
-  
+
 TRACK AUDIO
   CD_TEXT {
     LANGUAGE 0 {
-	  TITLE "Runes of Mana"
-	  PERFORMER "Firel"
-	}
+      TITLE "Runes of Mana"
+      PERFORMER "Firel"
+    }
   }
   FILE "audio/04 - Runes of Mana - Firel.wav" 0
 
 TRACK AUDIO
   CD_TEXT {
     LANGUAGE 0 {
-	  TITLE "Garden of Glass"
-	  PERFORMER "Firel"
-	}
+      TITLE "Garden of Glass"
+      PERFORMER "Firel"
+    }
   }
   FILE "audio/05 - Garden of Glass - Firel.wav" 0
 
 TRACK AUDIO
   CD_TEXT {
     LANGUAGE 0 {
-	  TITLE "Endure Emptiness"
-	  PERFORMER "Kain Vinosec"
-	}
+      TITLE "Endure Emptiness"
+      PERFORMER "Kain Vinosec"
+    }
   }
   FILE "audio/06 - Endure Emptiness.wav" 0
 
 TRACK AUDIO
   CD_TEXT {
     LANGUAGE 0 {
-	  TITLE "Fight for Quiescence"
-	  PERFORMER "Kain Vinosec"
-	}
+      TITLE "Fight for Quiescence"
+      PERFORMER "Kain Vinosec"
+    }
   }
   FILE "audio/07 - Fight for Quiescence.wav" 0  
