@@ -11,6 +11,12 @@ CD_TEXT {
 }
 
 TRACK MODE1
+  CD_TEXT {
+    LANGUAGE 0 {
+      TITLE "Bonus Content"
+      PERFORMER "Violet Moon Modding"
+    }
+  }
   DATAFILE "BotaniaCD.iso"
 
 TRACK AUDIO

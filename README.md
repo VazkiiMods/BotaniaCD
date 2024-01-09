@@ -19,7 +19,7 @@ tracks.
 2. Prepare the submodule repository, see how `.github/workflows/build.yml` prepares the
 repo for more details.
 3. Execute `make BotaniaCD.iso` to create the ISO of the data track
-4. Burn everything to a disc: `cdrdao --device /dev/your-cd-drive tocfile`
+4. Burn everything to a disc: `cdrdao write --device /dev/your-cd-drive tocfile`
 
 # Random
 
