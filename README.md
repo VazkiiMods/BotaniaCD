@@ -11,7 +11,7 @@ tracks.
 
 * Python 3
 * GNU Make
-* mkisofs and cdrdao
+* mkisofs
 
 # Building
 
@@ -19,7 +19,9 @@ tracks.
 2. Prepare the submodule repository, see how `.github/workflows/build.yml` prepares the
 repo for more details.
 3. Execute `make BotaniaCD.iso` to create the ISO of the data track
-4. Burn everything to a disc: `cdrdao write --device /dev/your-cd-drive tocfile`
+4. Burn everything to a disk using the BotaniaCD.cue cuefile, for example using
+   imgburn. Note that you will need to adjust the paths in the cue file to point to the
+   proper place where BotaniaCD.iso and the audio folder are located on your system.
 
 # Random
 
